@@ -1,4 +1,3 @@
-[davidkun.github.io](http://davidkun.github.io)
-==================
+## [My Webpage](http://davidkun.github.io) ##
 
-A personal website using [Github Pages](http://pages.github.com/).
+A personal website made at [Github Pages](http://pages.github.com/).
