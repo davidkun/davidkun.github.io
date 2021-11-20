@@ -18,15 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: david's blog
-# author:
-#   name: David Kun
-#   email: davidkun4@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about software quality, architecture, testing, and other
   random stuff.
 
 show_excerpts: true
+
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: davidkun.github.io
 url: "https://davidkun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,18 +35,20 @@ linkedin_username: davidwkun
 
 minima:
   skin: dark
-
   social_links:
     github: davidkun
     linkedin: davidwkun
 
-# Build settings
 theme: minima
-# remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  # - jekyll-remote-theme
+
+header_pages:
+  - software-design.md
+  - influences.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
