@@ -6,10 +6,8 @@ categories: miscellaneous
 excerpt_separator: <!--end of excerpt-->
 ---
 
-I don't know anything about Jekyll, and very little about GitHub Pages, but I'd like to start a mini-blog...so I'm giving this a go.
+I'm trying out the concept of writing small posts here every once in a while...
 
 <!--end of excerpt-->
 
-By the way, I'm not blogging because I think everyone should read what I have to say (I don't). I'm blogging as an outlet (a brain-dump) and as a way to organize my thoughts.
-
-I hope this works out.
+Let's see where this goes.

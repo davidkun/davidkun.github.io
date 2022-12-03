@@ -5,13 +5,13 @@ categories: design
 excerpt_separator: <!--end of excerpt-->
 ---
 
-For the first time in ages, I got a LinkedIn marketing email that actually caught my eye: "take a LinkedIn [skills assessment](https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en) to show recruiters you are in the top 30% for that skill set." I honestly didn't care about getting a "badge", but I was genuinely curious to see what kind of questions would be asked.
+I got a LinkedIn marketing email that actually caught my eye: "take a LinkedIn [skills assessment](https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en) to show recruiters you are in the top 30% for that skill set." I honestly didn't care about getting a "badge", but I was genuinely curious to see what kind of questions would be asked.
 
 On their help page, they explain that assessments are created by "subject matter experts" and questions are peer-reviewed. I was hoping that I could find interesting material to incorporate into our evolving technical interview process. Instead, it got me thinking (and writing) about OOP design principles....
 
 <!--end of excerpt-->
 
-The tl;dr about the assessments (I did 4: Git, Java, Python, & OOP) is that they're OK, but not great. Mainly, I'm not a fan of trivia questions, especially for things that are really quick to look up online (yes, even though the questions are time-based, if you know what you're looking for, you can quickly find answers online).
+The tl;dr about the assessments (I did 4: Git, Java, Python, & OOP) is that they're so-so, not great. Mainly, I'm not a fan of trivia questions, especially for things that are really quick to look up online (even though the questions are time-based, if you know what you're looking for, you can quickly find answers online).
 
 ## four principles?
 
