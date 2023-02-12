@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on david.kun</title>
+    <link>https://davidkun.github.io/posts/</link>
+    <description>Recent content in posts on david.kun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://davidkun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>thoughts on OOP design principles</title>
+      <link>https://davidkun.github.io/posts/2022-03-18-solid-design-principles/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidkun.github.io/posts/2022-03-18-solid-design-principles/</guid>
+      <description>I got a LinkedIn marketing email that actually caught my eye: &amp;ldquo;take a LinkedIn skills assessment to show recruiters you are in the top 30% for that skill set.&amp;rdquo; I honestly didn&amp;rsquo;t care about getting a &amp;ldquo;badge&amp;rdquo;, but I was genuinely curious to see what kind of questions would be asked.
+On their help page, they explain that assessments are created by &amp;ldquo;subject matter experts&amp;rdquo; and questions are peer-reviewed. I was hoping that I could find interesting material to incorporate into our evolving technical interview process.</description>
+    </item>
+    
+    <item>
+      <title>influences</title>
+      <link>https://davidkun.github.io/posts/influences/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidkun.github.io/posts/influences/</guid>
+      <description>We all stand on the shoulders of others. Our ability to communicate and persist our ideas and discoveries has undoubtedly had a substantial impact on our technological and social evolution.
+I keep track of the books, blogs, and videos that left a mark on me and impacted my growth and development. I do this partly to keep records (e.g., so I can go back and refresh my memory), partly to have a curated list for new developers who are interested in career growth, and partly for the potential of identifying patterns (meta-learning).</description>
+    </item>
+    
+  </channel>
+</rss>
