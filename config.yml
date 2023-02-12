@@ -1,0 +1,70 @@
+theme: charlolamode
+title: david.kun
+
+menu:
+    main:
+        - name: posts
+          url: /posts/
+          weight: 1
+        - name: projects
+          url: /projects/
+          weight: 2
+        # - name: categories
+        #   url: /categories/
+        #   weight: 3
+        - name: about
+          url: /about/
+          weight: 4
+
+params:
+    author: David Kun
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: hello
+        description: |
+          i am david.
+        
+          a software developer / aerospace engineer
+        imageUrl: "/images/profile.png"
+        imageTitle: my image
+        imageWidth: 218
+        imageHeight: 300
+        # buttons:
+        #     - name: name
+        #       url: link
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/davidkun"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/davidwkun"
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
