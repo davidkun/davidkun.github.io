@@ -4,7 +4,7 @@ title: thoughts on OOP design principles
 description: "i disagree with a pre-canned test solution to a question about the 'OOP design principles'"
 date: 2022-03-18
 tags:
-- software design
+- software-design
 ---
 
 I got a LinkedIn marketing email that actually caught my eye: "take a LinkedIn [skills assessment](https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en) to show recruiters you are in the top 30% for that skill set." I honestly didn't care about getting a "badge", but I was genuinely curious to see what kind of questions would be asked.

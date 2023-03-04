@@ -10,9 +10,9 @@ menu:
         # - name: projects
         #   url: /projects/
         #   weight: 2
-        # - name: categories
-        #   url: /categories/
-        #   weight: 3
+        - name: tags
+          url: /tags/
+          weight: 3
         - name: about
           url: /about/
           weight: 4
