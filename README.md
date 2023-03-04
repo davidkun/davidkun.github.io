@@ -14,5 +14,5 @@ git clone --recurse-submodules git@github.com:davidkun/davidkun.github.io.git
 local development
 
 ```shell
-brew server -D
+hugo server -D
 ```
