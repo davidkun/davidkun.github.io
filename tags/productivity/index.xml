@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>productivity on david.kun</title>
+    <title>Productivity on david.kun</title>
     <link>https://davidkun.github.io/tags/productivity/</link>
-    <description>Recent content in productivity on david.kun</description>
+    <description>Recent content in Productivity on david.kun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://davidkun.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidkun.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Work (book notes)</title>
       <link>https://davidkun.github.io/posts/2023-03-04-deep-work-notes/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://davidkun.github.io/posts/2023-03-04-deep-work-notes/</guid>
-      <description>Newport, Cal. Deep work: Rules for focused success in a distracted world. Hachette UK, 2016. The notes in Part I focus largely on context and provide definitions (what is Deep Work and why is it meaningful). Part II describes the four rules of Deep Work. If you&amp;rsquo;re in a rush to start working Deeply, jump straight to Rule 1: Work Deeply for guidance.
-Part I Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limits.</description>
+      <description>Newport, Cal. Deep work: Rules for focused success in a distracted world. Hachette UK, 2016. The notes in Part I focus largely on context and provide definitions (what is Deep Work and why is it meaningful). Part II describes the four rules of Deep Work. If you&amp;rsquo;re in a rush to start working Deeply, jump straight to Rule 1: Work Deeply for guidance.&#xA;Part I Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limits.</description>
     </item>
-    
   </channel>
 </rss>
