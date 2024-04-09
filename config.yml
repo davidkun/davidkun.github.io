@@ -7,20 +7,17 @@ menu:
         - name: posts
           url: /posts/
           weight: 1
-        # - name: projects
-        #   url: /projects/
-        #   weight: 2
         - name: tags
           url: /tags/
-          weight: 3
+          weight: 2
         - name: about
           url: /about/
-          weight: 4
+          weight: 3
 
 params:
     author: David Kun
     defaultTheme: auto
-    # disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: true
     displayFullLangName: true
@@ -33,13 +30,13 @@ params:
         enabled: true
         title: hello
         description: |
-          i am david.
-        
-          a software dev with an aerospace engineering background
+          i'm a software dev with
+
+          an aerospace engineering background
         imageUrl: "/images/profile.png"
         imageTitle: my image
         imageWidth: 218
-        imageHeight: 300
+        imageHeight: 277
         buttons:
             # - name: name
               # url: link
