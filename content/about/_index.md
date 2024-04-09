@@ -4,18 +4,18 @@ tags:
 - about-me
 ---
 
-I work at The [MITRE](https://www.mitre.org) Corporation, a not-for-profit organization that manages several federally funded research and development centers (FFRDCs) (mission: "solving problems for a safer world"). More specifically, I'm on a team that manages, maintains, and evolves a big data platform (primarily aviation data, but also other modes of transportation, weather, etc.).
+Up until recently, I worked at The [MITRE](https://www.mitre.org) Corporation, an organization that manages several federally funded research and development centers (FFRDCs). The team I was part of maintains and evolves a big data platform (primarily aviation data, weather, terrain, etc.), enabling analysts to answer complex questions about the national airspace.
 
-Most of the platform work involves programming in Java and working with Hadoop (plus Avro, Parquet, Spark, Crunch, Kafka, Flink, etc.). Recently, we've been focusing more on cloud migration, intelligent/automated operations, and data observability. When I do (usually quick) data science/analysis, I typically use Python and Clojure.
+The platform work mainly involved writing Java and working with Hadoop (plus Avro, Parquet, Spark, Crunch, Kafka, Flink, etc.). More recently, we began focusing on cloud migration, intelligent/automated operations, and data observability. When I did brief data science/analysis work, I'd use Python and sometimes Clojure.
 
-I'm primarily interested in sustainable development practices, software quality, software testing, and reproducible research. The overarching theme of my work/career is **continuous improvement**.
+I'm primarily interested in sustainable development practices, software quality, software testing, and reproducible research. The central theme of my work/career has been (and continues to be) a dedication to **continuous improvement**.
 
 ---
 
 {{< details title="click to see full resume" open=false >}}
 ### Professional Experience
 
-**Engineering Manager**, The MITRE Corporation `Sept 2022--present`
+**Engineering Manager**, The MITRE Corporation `Sept 2022--April 2024`
 
 * Leading the Big Data Engineering team in the Transportation Data Analytics department to operate and evolve our big data platform. Managing project allocations, helping with career goals, and mentoring junior developers (code reviews, pair programming).
 * Created an automated ops service (Spring Boot) running on an OpenShift cluster (Helm, Kubernetes) for data recovery actions, data gap / schema change alerts, and syncing data/metadata from on-prem (Hadoop, HBase) to AWS (S3, DynamoDB). This decreased operating costs, increased data observability.
