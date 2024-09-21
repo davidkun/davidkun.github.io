@@ -4,7 +4,7 @@
     <title>About-Me on david.kun</title>
     <link>https://davidkun.github.io/tags/about-me/</link>
     <description>Recent content in About-Me on david.kun</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidkun.github.io/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://davidkun.github.io/posts/influences/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/posts/influences/</guid>
-      <description>We all stand on the shoulders of others. Our ability to communicate and persist our ideas and discoveries has undoubtedly had a substantial impact on our technological and social evolution.&#xA;I keep track of the books, blogs, and videos that left a mark on me and impacted my growth and development. I do this partly to keep records (e.g., so I can go back and refresh my memory), partly to have a curated list for new developers who are interested in career growth, and partly for the potential of identifying patterns (meta-learning).</description>
+      <description>&lt;p&gt;We all stand on the shoulders of others. Our ability to communicate and persist our ideas and discoveries has undoubtedly had a substantial impact on our technological and social evolution.&lt;/p&gt;&#xA;&lt;p&gt;I keep track of the books, blogs, and videos that left a mark on me and impacted my growth and development.&#xA;I do this partly to keep records (e.g., so I can go back and refresh my memory), partly to have a curated list for new developers who are interested in career growth, and partly for the potential of identifying patterns (meta-learning).&lt;/p&gt;</description>
     </item>
     <item>
       <title>about</title>
       <link>https://davidkun.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/about/</guid>
-      <description>Up until recently, I worked at The MITRE Corporation, an organization that manages several federally funded research and development centers (FFRDCs). The team I was part of maintains and evolves a big data platform (primarily aviation data, weather, terrain, etc.), enabling analysts to answer complex questions about the national airspace.&#xA;The platform work mainly involved writing Java and working with Hadoop (plus Avro, Parquet, Spark, Crunch, Kafka, Flink, etc.). More recently, we began focusing on cloud migration, intelligent/automated operations, and data observability.</description>
+      <description>&lt;p&gt;I started out as an aerospace engineer (designed and tested autopilot, autoland, and flight guidance control laws) and eventually grew into the software developer role. At &lt;a href=&#34;https://www.mitre.org&#34;&gt;MITRE&lt;/a&gt;, I worked on aviation research software (e.g., aircraft trajectory simulation engine, near-real time airport risk detection application, and a big data platform for aviation research).&lt;/p&gt;&#xA;&lt;p&gt;Nowadays, I develop software apps in support of the &lt;a href=&#34;https://www.ceva-ip.com/product/ceva-realspace/&#34;&gt;Spatial Audio&lt;/a&gt; business unit at &lt;a href=&#34;https://www.ceva-ip.com&#34;&gt;Ceva&lt;/a&gt;. Over the years, I went from writing (primarily) Python, to Java, and now back to Python. I&amp;rsquo;ve enjoyed &lt;a href=&#34;https://github.com/davidkun/clojure-exercises&#34;&gt;dabbling with Clojure&lt;/a&gt; outside of work and would love to one day get paid to write Clojure.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

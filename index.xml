@@ -4,7 +4,7 @@
     <title>david.kun</title>
     <link>https://davidkun.github.io/</link>
     <description>Recent content on david.kun</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidkun.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,28 @@
       <link>https://davidkun.github.io/posts/2023-03-11-extreme-ownership-notes/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/posts/2023-03-11-extreme-ownership-notes/</guid>
-      <description>Willink, Jocko, and Leif Babin. Extreme ownership: How US Navy SEALs lead and win. St. Martin&amp;rsquo;s Press, 2017. Leadership: The Single Most Important Factor Most leadership books focus on individual practices / personal character traits. But without a team there can be no leadership.&#xA;Team: a group of individuals working to accomplish a mission.&#xA;Leadership requires a diverse team of people in various groups to execute highly complex missions in order to achieve strategic goals</description>
+      <description>&lt;h1 id=&#34;willink-jocko-and-leif-babin-_extreme-ownership-how-us-navy-seals-lead-and-win_-st-martins-press-2017&#34;&gt;Willink, Jocko, and Leif Babin. &lt;em&gt;Extreme ownership: How US Navy SEALs lead and win&lt;/em&gt;. St. Martin&amp;rsquo;s Press, 2017.&lt;/h1&gt;&#xA;&lt;h2 id=&#34;leadership-the-single-most-important-factor&#34;&gt;Leadership: The Single Most Important Factor&lt;/h2&gt;&#xA;&lt;p&gt;Most leadership books focus on individual practices / personal character traits. But &lt;em&gt;without a team there can be no leadership&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Team&lt;/strong&gt;: &lt;em&gt;a group of individuals working to accomplish a mission&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Leadership requires a diverse team of people in various groups to execute highly complex missions in order to achieve strategic goals&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep Work (book notes)</title>
       <link>https://davidkun.github.io/posts/2023-03-04-deep-work-notes/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/posts/2023-03-04-deep-work-notes/</guid>
-      <description>Newport, Cal. Deep work: Rules for focused success in a distracted world. Hachette UK, 2016. The notes in Part I focus largely on context and provide definitions (what is Deep Work and why is it meaningful). Part II describes the four rules of Deep Work. If you&amp;rsquo;re in a rush to start working Deeply, jump straight to Rule 1: Work Deeply for guidance.&#xA;Part I Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limits.</description>
+      <description>&lt;h1 id=&#34;newport-cal-_deep-work-rules-for-focused-success-in-a-distracted-world_-hachette-uk-2016&#34;&gt;Newport, Cal. &lt;em&gt;Deep work: Rules for focused success in a distracted world&lt;/em&gt;. Hachette UK, 2016.&lt;/h1&gt;&#xA;&lt;p&gt;The notes in &lt;a href=&#34;#part-i&#34;&gt;Part I&lt;/a&gt; focus largely on context and provide definitions (what is Deep Work and why is it meaningful). &lt;a href=&#34;#part-ii&#34;&gt;Part II&lt;/a&gt; describes the four rules of Deep Work. If you&amp;rsquo;re in a rush to start working Deeply, jump straight to &lt;a href=&#34;#work-deeply&#34;&gt;Rule 1: Work Deeply&lt;/a&gt; for guidance.&lt;/p&gt;&#xA;&lt;h2 id=&#34;part-i&#34;&gt;Part I&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deep Work&lt;/strong&gt;: &lt;em&gt;Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limits. These efforts create new value, improve your skills, and are hard to replicate.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>thoughts on OOP design principles</title>
       <link>https://davidkun.github.io/posts/2022-03-18-solid-design-principles/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/posts/2022-03-18-solid-design-principles/</guid>
-      <description>I got a LinkedIn marketing email that actually caught my eye: &amp;ldquo;take a LinkedIn skills assessment to show recruiters you are in the top 30% for that skill set.&amp;rdquo; I honestly didn&amp;rsquo;t care about getting a &amp;ldquo;badge&amp;rdquo;, but I was genuinely curious to see what kind of questions would be asked.&#xA;On their help page, they explain that assessments are created by &amp;ldquo;subject matter experts&amp;rdquo; and questions are peer-reviewed. I was hoping that I could find interesting material to incorporate into our evolving technical interview process.</description>
+      <description>&lt;p&gt;I got a LinkedIn marketing email that actually caught my eye: &amp;ldquo;take a LinkedIn &lt;a href=&#34;https://www.linkedin.com/help/linkedin/answer/a507663/linkedin-skill-assessments?lang=en&#34;&gt;skills assessment&lt;/a&gt; to show recruiters you are in the top 30% for that skill set.&amp;rdquo; I honestly didn&amp;rsquo;t care about getting a &amp;ldquo;badge&amp;rdquo;, but I was genuinely curious to see what kind of questions would be asked.&lt;/p&gt;&#xA;&lt;p&gt;On their help page, they explain that assessments are created by &amp;ldquo;subject matter experts&amp;rdquo; and questions are peer-reviewed. I was hoping that I could find interesting material to incorporate into our evolving technical interview process. Instead, it got me thinking (and writing) about OOP design principles&amp;hellip;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>influences</title>
       <link>https://davidkun.github.io/posts/influences/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/posts/influences/</guid>
-      <description>We all stand on the shoulders of others. Our ability to communicate and persist our ideas and discoveries has undoubtedly had a substantial impact on our technological and social evolution.&#xA;I keep track of the books, blogs, and videos that left a mark on me and impacted my growth and development. I do this partly to keep records (e.g., so I can go back and refresh my memory), partly to have a curated list for new developers who are interested in career growth, and partly for the potential of identifying patterns (meta-learning).</description>
+      <description>&lt;p&gt;We all stand on the shoulders of others. Our ability to communicate and persist our ideas and discoveries has undoubtedly had a substantial impact on our technological and social evolution.&lt;/p&gt;&#xA;&lt;p&gt;I keep track of the books, blogs, and videos that left a mark on me and impacted my growth and development.&#xA;I do this partly to keep records (e.g., so I can go back and refresh my memory), partly to have a curated list for new developers who are interested in career growth, and partly for the potential of identifying patterns (meta-learning).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Braintrainer</title>
@@ -48,7 +48,7 @@
       <link>https://davidkun.github.io/articles/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidkun.github.io/articles/article/</guid>
-      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)</description>
+      <description>&lt;h3 id=&#34;thank-you-for-your-support&#34;&gt;Thank you for your support!&lt;/h3&gt;&#xA;&lt;p&gt;Hello. If you like this template, I&amp;rsquo;d be happy to get a &lt;a href=&#34;https://ko-fi.com/heycharlola&#34;&gt;coffee donation&lt;/a&gt; :)&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://davidkun.github.io/images/thankyou.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
