@@ -4,20 +4,24 @@ tags:
 - about-me
 ---
 
-Up until recently, I worked at The [MITRE](https://www.mitre.org) Corporation, an organization that manages several federally funded research and development centers (FFRDCs). The team I was part of maintains and evolves a big data platform (primarily aviation data, weather, terrain, etc.), enabling analysts to answer complex questions about the national airspace.
+I started out as an aerospace engineer (designed and tested autopilot, autoland, and flight guidance control laws) and eventually grew into the software developer role. At [MITRE](https://www.mitre.org), I worked on aviation research software (e.g., aircraft trajectory simulation engine, near-real time airport risk detection application, and a big data platform for aviation research). 
 
-The platform work mainly involved writing Java and working with Hadoop (plus Avro, Parquet, Spark, Crunch, Kafka, Flink, etc.). More recently, we began focusing on cloud migration, intelligent/automated operations, and data observability. When I did brief data science/analysis work, I'd use Python and sometimes Clojure.
+Nowadays, I develop software apps in support of the [Spatial Audio](https://www.ceva-ip.com/product/ceva-realspace/) business unit at [Ceva](https://www.ceva-ip.com). Over the years, I went from writing (primarily) Python, to Java, and now back to Python. I've enjoyed [dabbling with Clojure](https://github.com/davidkun/clojure-exercises) outside of work and would love to one day get paid to write Clojure.
 
-I'm primarily interested in sustainable development practices, software quality, software testing, and reproducible research. The central theme of my work/career has been (and continues to be) a dedication to **continuous improvement**.
+I'm interested in sustainable development practices, team culture, software quality/testing, and reproducible research. My overarching focus has been on **continuous improvement**.
 
 ---
 
 {{< details title="click to see full resume" open=false >}}
 ### Professional Experience
 
+**Sr. Software Developer**, Ceva `April 2024--present`
+
+* Developing a Python application for visualizing and comparing head-related transfer functions (HRTFs). Implementing published algorithms (and developing new ones) and visualizing similarity metrics with Bokeh. The application is quickly growing to support new Spatial Audio business needs.
+
 **Engineering Manager**, The MITRE Corporation `Sept 2022--April 2024`
 
-* Leading the Big Data Engineering team in the Transportation Data Analytics department to operate and evolve our big data platform. Managing project allocations, helping with career goals, and mentoring junior developers (code reviews, pair programming).
+* Led the Big Data Engineering team in the Transportation Data Analytics department to operate and evolve our big data platform. Managed project allocations, helped with career goals, and mentored junior staff (code reviews, pair programming).
 * Created an automated ops service (Spring Boot) running on an OpenShift cluster (Helm, Kubernetes) for data recovery actions, data gap / schema change alerts, and syncing data/metadata from on-prem (Hadoop, HBase) to AWS (S3, DynamoDB). This decreased operating costs, increased data observability.
 * Improved our hiring process (added structured questions and expectations, optimized interview pipeline to reject earlier) and streamlined the onboarding process (created a bootstrapped laptop setup script (Zsh), established a path to first day/week/month expectations for new hires).
 
