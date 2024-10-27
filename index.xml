@@ -6,8 +6,15 @@
     <description>Recent content on david.kun</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://davidkun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Interviewing</title>
+      <link>https://davidkun.github.io/posts/2024-10-27-interviewing-kahneman/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://davidkun.github.io/posts/2024-10-27-interviewing-kahneman/</guid>
+      <description>&lt;h1 id=&#34;effective-interviewing&#34;&gt;Effective Interviewing&lt;/h1&gt;&#xA;&lt;p&gt;In &lt;a href=&#34;https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555&#34;&gt;Thinking, Fast and Slow&lt;/a&gt;, Daniel Kahneman gives us a detailed overview of our mind, how we think, our biases, and clever experiments for figuring this stuff out.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bluf&#34;&gt;BLUF&lt;/h2&gt;&#xA;&lt;p&gt;Overview of Kahneman’s advice for hiring effectively:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First, select a few traits that are prerequisites for success in the position (technical proficiency, engaging personality, reliability, etc.). Six (6) dimensions is a good upper limit.&lt;/li&gt;&#xA;&lt;li&gt;The traits should be as independent from each other as possible.&lt;/li&gt;&#xA;&lt;li&gt;You should be able to assess the traits reliably by asking a few factual questions.&lt;/li&gt;&#xA;&lt;li&gt;List the questions for each trait and think about how you’ll score it, e.g. on a 1-5 scale a. have an idea of what you’d call “very weak” or “very strong”.&lt;/li&gt;&#xA;&lt;li&gt;Score each trait before going to the next, and don’t skip around.&lt;/li&gt;&#xA;&lt;li&gt;To evaluate the candidate, add up the 6 scores and firmly resolve to hire the candidate who scored highest, even if there’s another one whom you like better.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt;, by Daniel Kahneman, explains the way we think:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Extreme Ownership (book notes)</title>
       <link>https://davidkun.github.io/posts/2023-03-11-extreme-ownership-notes/</link>
